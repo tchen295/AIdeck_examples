@@ -1,7 +1,7 @@
 #include "bsp/camera/himax.h"
 #include "bsp/camera/mt9v034.h"
 #include "bsp/transport/nina_w10.h"
-#include "tools/frame_streamer.h"
+#include "frame_streamer.h"
 #include "stdio.h"
 
 #if defined(CONFIG_GAPUINO) || defined(CONFIG_AI_DECK)
